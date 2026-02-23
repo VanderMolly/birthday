@@ -14,6 +14,7 @@ margin: 0;
 
 .invite{
     background-image: url(images/fancybg.png);
+    margin: 10%;
 }
 
 h1,h2,h3{
@@ -21,6 +22,20 @@ h1,h2,h3{
     color: white;
 }
 
+.heading{
+    font-size: 10vw;
+}
+
+.Molly{
+    font-size: 5vw;
+    text-align: center;
+}
+
+.info{
+    margin-left: 30%;
+    width: 30vw;
+    font-size: 2vw;
+}
 p,ul{
     font-family:'Courier New', Courier, monospace;
     color: white;
@@ -34,6 +49,7 @@ a{
 
 a:hover {
     color:rgb(174, 0, 0);
+      text-decoration: underline;
 }
 
 .clickme {
@@ -46,3 +62,6 @@ a:hover {
     border-radius: 50%;
     color: white;
 }
+
+
+/*Mobile Version*/
