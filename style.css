@@ -68,12 +68,12 @@ a:hover {
 }
 
 .button {
-    margin-top: 3%;
+    margin-top: 20%;
     margin-left: 25%;
     font-size: 5vw;
-    background-color: rgb(255, 255, 255);
+    background-color: black ;
     border-radius: 5vw;
-    padding: 1vw;
+    padding: 2vw;
     color: white;
     width: 45vw;
     text-align: center;
@@ -82,9 +82,15 @@ a:hover {
 
 /*Mobile Version*/
 
-/*.invite{
+@media only screen and (max-width: 400px) {
+    .invite{
     background-image: url(images/fancyphone.png);
     margin: 10%;
     max-height:100px;
 }
-*/
+}
+
+
+
+
+
