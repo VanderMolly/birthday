@@ -27,12 +27,15 @@ h1,h2,h3{
 }
 
 .Molly{
+    margin-left: -10%;
+     margin-top: -3%;
     font-size: 5vw;
     text-align: center;
 }
 
 .info{
-    margin-left: 30%;
+    margin-top: 5%;
+    margin-left: 25%;
     width: 30vw;
     font-size: 2vw;
 }
