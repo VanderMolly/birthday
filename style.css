@@ -14,12 +14,15 @@ body{
 }
 .clickm {
     background-color: #D7D5CC ; 
+
 }
 
 .invite{
     background-image: url(images/fancybg.png);
     margin: 10%;
     max-height:100px;
+    background-repeat: no-repeat;
+    background-size: auto;
 }
 
 h1,h2,h3{
@@ -30,6 +33,9 @@ h1,h2,h3{
 .heading{
      margin-top: -5%;
     font-size: 10vw;
+     background:rgb(200, 1, 1);
+   width: 90vw;
+        
 }
 
 .Molly{
@@ -37,6 +43,8 @@ h1,h2,h3{
      margin-top: -3%;
     font-size: 5vw;
     text-align: center;
+     background:rgb(200, 1, 1);
+
 }
 
 .info{
@@ -44,6 +52,8 @@ h1,h2,h3{
     margin-left: 15%;
     width: 40vw;
     font-size:2.5vw;
+     background:rgb(200, 1, 1);
+     
 }
 
 li{
@@ -72,14 +82,14 @@ a:hover {
 }
 
 p{
-    margin-top: 15%;
-    margin-left: 30%;
-    font-size: 5vw;
+    margin-top: 5%;
+    margin-left: 35%;
+    font-size: 3vw;
+ 
 }
 .button {
-
     background-color: black ;
-    border-radius: 8cap;
+    border-radius: 5vw;
     padding: 3vw;
     color: white;
     width: 45vw;
