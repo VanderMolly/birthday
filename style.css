@@ -8,6 +8,39 @@ padding: 0;
 margin: 0;
 }
 
+.clickm {
+    background-color: #D7D5CC ; 
+}
+
+.invite{
+    background-image: url(images/fancybg.png);
+}
+
+h1,h2,h3{
+    font-family:Kirang Haerang;
+    color: white;
+}
+
+p,ul{
+    font-family:'Courier New', Courier, monospace;
+    color: white;
+}
+
+a{
+    color: rgb(33, 33, 33);
+    text-decoration: none;
+    
+}
+
+a:hover {
+    color:rgb(174, 0, 0);
+}
+
+.clickme {
+    text-align: center;
+    font-size: 10vw;
+    margin: 20%;
+}
 .button {
     background-color: black;
     border-radius: 50%;
